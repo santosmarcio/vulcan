@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Carto",
+    "identify": "controlelegal",
+    "logo": "/assets/whitelabel/carto/logo.png",
+    "heightLogo": "40px",
+    "title": "CartoPay - A sua máquina de cartão",
+    "linkFavicon": "/assets/whitelabel/carto/favicon.png",
+    "colorDefault": "#499785",
+    "licences": "https://carto.com.br/docs/",
+    "site": "https://carto.com.br/",
+    "contact": "https://carto.movidesk.com/kb/pt-br/form/2485/abrir-ticket-controle-legal"
+  },
+  {
+    "name": "Maqplan",
+    "identify": "maqplan",
+    "logo": "/assets/whitelabel/maqplan/logo.png",
+    "heightLogo": "70px",
+    "title": "Maqplan - Máquina de cartão",
+    "linkFavicon": "/assets/whitelabel/maqplan/favicon.png",
+    "colorDefault": "#2196f3",
+    "licences": "https://maqplan.com.br/docs/politica-privacidade.pdf",
+    "site": "http://maqplan.com.br/",
+    "contact": "https://maqplansoftware.movidesk.com/kb"
+  },
+  {
+    "name": "Kredit",
+    "identify": "kredit",
+    "logo": "https://kredit.gopayments.com.br/img/brand/kredit.png",
+    "heightLogo": "40px",
+    "title": "Kredit - Máquina de cartão",
+    "linkFavicon": "https://kredit.gopayments.com.br/favicon.ico",
+    "colorDefault": "#e75a1c",
+    "licences": "https://kredit.com.br/politica-de-privacidade/",
+    "site": "https://kredit.com.br/",
+    "contact": "https://kredit.com.br/portal-adquirencia/"
+  },
+  {
+    "name": "SharksPay",
+    "identify": "sharkspay",
+    "logo": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/sharkspay/logo_empresa.png",
+    "heightLogo": "40px",
+    "title": "SuperPag - Maquininhas de Cartão",
+    "linkFavicon": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/sharkspay/favico_empresa.png",
+    "colorDefault": "#57B952",
+    "licences": "",
+    "site": "https://sharkspay.vulcan.net.br/login/"
+  },
+  {
+    "name": "EasyPay",
+    "identify": "easypay",
+    "logo": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/easypay/logo_empresa.png",
+    "heightLogo": "40px",
+    "title": "EasyPay",
+    "linkFavicon": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/easypay/favico_empresa.png",
+    "colorDefault": "#1E3595",
+    "licences": "",
+    "site": ""
+  },
+  {
+    "name": "BNB",
+    "identify": "bnb",
+    "logo": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/bnb/logo_empresa.png",
+    "heightLogo": "40px",
+    "title": "BNB",
+    "linkFavicon": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/bnb/favico_empresa.ico",
+    "colorDefault": "#F18820",
+    "licences": "",
+    "site": ""  
+  }
+]
